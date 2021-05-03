@@ -3,7 +3,7 @@
 
 > Materi: Graph  
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## Rafi Alauddin - 140810200056
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
